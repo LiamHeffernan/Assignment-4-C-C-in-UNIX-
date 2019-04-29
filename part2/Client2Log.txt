@@ -1,0 +1,39 @@
+
+(Before) Client 13335
+Sun Apr 28 22:52:13 CDT 2019
+
+String received from the server:Sun Apr 28 22:52:13 CDT 2019
+
+(After) Client 13335Sun Apr 28 22:52:16 CDT 2019
+
+
+
+(Before) Client 13335
+Sun Apr 28 22:52:16 CDT 2019
+
+String received from the server:total 41
+-rwxr-xr-x+ 1 ljh180000 sn 13872 Apr 28 22:15 a4Client2
+-rw-r--r--+ 1 ljh180000 sn  2655 Apr 28 22:12 a4Client2.c
+-rwxr-xr-x+ 1 ljh180000 sn 13776 Apr 28 22:15 a4Server2
+-rw-r--r--+ 1 ljh180000 sn  2577 Apr 28 21:40 a4Server2.c
+-rw-r--r--+ 1 ljh180000 sn    37 Apr 28 21:52 cFile1.txt
+-rw-r--r--+ 1 ljh180000 sn    23 Apr 28 21:54 cFile2.txt
+-rw-r--r--+ 1 ljh180000 sn     0 Apr 28 22:52 Client1Log.txt
+-rw-r--r--+ 1 ljh180000 sn     0 Apr 28 22:52 Client2Log.txt
+-rw-r--r--+ 1 ljh180000 sn    65 Apr 28 22:15 Makefile
+
+(After) Client 13335Sun Apr 28 22:52:19 CDT 2019
+
+
+
+(Before) Client 13335
+Sun Apr 28 22:52:19 CDT 2019
+
+String received from the server:      9       9     105
+
+(After) Client 13335Sun Apr 28 22:52:22 CDT 2019
+
+
+
+(Before) Client 13335
+Sun Apr 28 22:52:22 CDT 2019

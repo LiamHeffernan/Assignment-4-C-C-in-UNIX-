@@ -1,0 +1,39 @@
+
+(Before) Client 13299
+Sun Apr 28 22:52:12 CDT 2019
+
+String received from the server:Sun Apr 28 22:52:12 CDT 2019
+
+(After) Client 13299Sun Apr 28 22:52:15 CDT 2019
+
+
+
+(Before) Client 13299
+Sun Apr 28 22:52:15 CDT 2019
+
+String received from the server:    388     388    4090
+
+(After) Client 13299Sun Apr 28 22:52:18 CDT 2019
+
+
+
+(Before) Client 13299
+Sun Apr 28 22:52:18 CDT 2019
+
+String received from the server:1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+
+(After) Client 13299Sun Apr 28 22:52:21 CDT 2019
+
+
+
+(Before) Client 13299
+Sun Apr 28 22:52:21 CDT 2019
